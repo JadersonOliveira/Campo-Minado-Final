@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1447731199 source:c:\users\jaderson.pc-pc\documents\campo minado final\main.cpp
+	<iostream>
+	<time.h>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+
